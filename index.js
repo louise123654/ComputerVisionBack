@@ -5,7 +5,7 @@ const cors = require("cors");
 
 const { dbConnection } = require("./database/config");
 
-// Crear el servidor de express
+// Crear el servidor de expresss
 const app = express();
 
 // Configurar CORS
